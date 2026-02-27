@@ -80,3 +80,5 @@ override.tf.json
 tmp/
 temp/
 .cache/
+
+.gitignore
